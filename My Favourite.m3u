@@ -1,0 +1,46 @@
+﻿#EXTINF:0,CNN INTERNATIONAL
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,CRIME 360
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,FOX MOVIES ASIA THAI
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0,HBO MALAYSIA
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0,CBN FAMILY
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0,CNN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,FILMRISE FORENSIC FILES
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:0, CRIME TIME
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:0, 1 MUSIC CHANNEL
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC +1 UK
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",TLC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22319?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",TLC GR
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/5856?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",TLC
+http://hbox.cdnss.me:80/bestcs/bestcs/5717?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",TLC FHD NL
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/6811?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",TLC HD
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/6765?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",TLC HD NL
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/11090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",TLC NL
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/286?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",TLC HD
+http://wagmaott.com:8080/ma#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TLC
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1310?checkedby:iptvcat.comg00:1A:79:A0:B7:0E/ReDcztTd01/41614?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TLC
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/59284?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TLC ᵖᵒʳᵗᵘᵍᵃˡ ˢᵈ
+http://2iptvma.live:8082/bouiss.chakir/rPSAfuQYAu/869?checkedby:iptvcat.com
+#EXTINF:0,FBI FILES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
