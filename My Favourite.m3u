@@ -18,6 +18,8 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC +1 UK
 http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC +2 UK
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1901?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",TLC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22319?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",TLC GR
