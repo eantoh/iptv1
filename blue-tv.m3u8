@@ -1,0 +1,85 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" tvg-chno="1",TVNZ 1
+https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://i.mjh.nz/.images/tv.10.png" tvg-chno="2",TVNZ 2
+https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.11" tvg-logo="https://i.mjh.nz/.images/tv.11.png" tvg-chno="3",Three
+https://livestreamdirect-three.mediaworks.nz/three.m3u8
+
+#EXTINF:-1 tvg-id="tv.12" tvg-logo="https://i.mjh.nz/.images/tv.12.png" tvg-chno="4",Bravo
+https://bravo-livestream.mediaworks.nz/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.13" tvg-logo="https://i.mjh.nz/.images/tv.13.png" tvg-chno="5",Māori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.28" tvg-logo="https://i.mjh.nz/.images/tv.28.png" tvg-chno="10",PRIME
+https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8
+
+#EXTINF:-1 tvg-id="tv.51" tvg-logo="https://i.mjh.nz/.images/tv.51.png" tvg-chno="11",The Edge TV
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
+#EXTINF:-1 tvg-id="tv.37" tvg-logo="https://i.mjh.nz/.images/tv.37.png" tvg-chno="12",Choice TV
+https://livestreams.e-cast.co.nz/choicetv.m3u8
+
+#EXTINF:-1 tvg-id="tv.55" tvg-logo="https://i.mjh.nz/.images/tv.55.png" tvg-chno="13",DUKE
+https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" tvg-chno="14",BREEZE TV
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+
+#EXTINF:-1 tvg-id="tv.20" tvg-logo="https://i.mjh.nz/.images/tv.20.png" tvg-chno="15",Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="https://i.mjh.nz/.images/tv.46.png" tvg-chno="16",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.58" tvg-logo="https://i.mjh.nz/.images/tv.58.png" tvg-chno="17",HGTV
+https://livestreams.e-cast.co.nz/hgtv.m3u8
+
+#EXTINF:-1 tvg-id="tv.45" tvg-logo="https://i.mjh.nz/.images/tv.45.png" tvg-chno="20",TVSN Shopping
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz.m3u8
+
+#EXTINF:-1 tvg-id="tv.7" tvg-logo="https://i.mjh.nz/.images/tv.7.png" tvg-chno="25",Shine TV
+https://rhemamedia.global.ssl.fastly.net/ShineTV_Legacy/high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.39" tvg-logo="https://i.mjh.nz/.images/tv.39.png" tvg-chno="26",Firstlight
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.56" tvg-logo="https://i.mjh.nz/.images/tv.56.png" tvg-chno="27",Hope Channel
+https://c.mjh.nz/hope/
+
+#EXTINF:-1 tvg-id="tv.21" tvg-logo="https://i.mjh.nz/.images/tv.21.png" tvg-chno="28",Chinese TV28
+https://livestreams.e-cast.co.nz/chinesetv.m3u8
+
+#EXTINF:-1 tvg-id="tv.36" tvg-logo="https://i.mjh.nz/.images/tv.36.png" tvg-chno="29",Chinese TV29
+https://livestreams.e-cast.co.nz/tv29.m3u8
+
+#EXTINF:-1 tvg-id="tv.18" tvg-logo="https://i.mjh.nz/.images/tv.18.png" tvg-chno="31",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.49" tvg-logo="https://i.mjh.nz/.images/tv.49.png" tvg-chno="36",APNA Television
+https://livestreams.e-cast.co.nz/apnatv.m3u8
+
+#EXTINF:-1 tvg-id="tv.63" tvg-logo="https://i.mjh.nz/.images/tv.63.png" tvg-chno="37",Panda TV
+https://livestreams.e-cast.co.nz/pandatv.m3u8
+
+#EXTINF:-1 tvg-id="tv.60" tvg-logo="https://i.mjh.nz/.images/tv.60.png" tvg-chno="41",Wairarapa TV
+https://stream.wairarapatv.co.nz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.66" tvg-logo="https://i.mjh.nz/.images/tv.66.png" tvg-chno="200",CH200
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.juice" tvg-logo="https://i.mjh.nz/.images/tv.juice.png",Juice TV
+https://juicex.nz/hls/mystream.m3u8
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="https://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.trackside1" tvg-logo="https://i.mjh.nz/.images/tv.trackside1.png",TAB Trackside 1
+https://tab-trackside.akamaized.net/hls/live/2017599/Trackside1/HRNZ/playlist.m3u8?hdnts=exp=1630909548~acl=/hls/live/2017599/Trackside1/HRNZ/*~hmac=70ce3af3907ebb12c5bd7f36718251f00ada76ccf8c1aeda668f455a46ecba87
+
+#EXTINF:-1 tvg-id="tv.trackside2" tvg-logo="https://i.mjh.nz/.images/tv.trackside2.png",TAB Trackside 2
+https://tab-trackside.akamaized.net/hls/live/2017600/Trackside2/HRNZ/playlist.m3u8?hdnts=exp=1630909548~acl=/hls/live/2017600/Trackside2/HRNZ/*~hmac=e05b95b2466f5e17cbb52fe1f7badc1db2fb07c22894f92906e16e29b8cc3599
