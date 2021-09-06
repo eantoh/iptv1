@@ -75,12 +75,12 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",National Geographic Abu Dhabi (1080p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NatGeoWILDAsia.us" tvg-name="Nat Geo WILD Asia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",Nat Geo WILD Asia (720p)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
-
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="NatGeoWILD.us" group-title="Documentary",Nat Geo WILD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="Documentary",HISTORY
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",History Channel (720p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
