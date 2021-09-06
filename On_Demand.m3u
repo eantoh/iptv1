@@ -45,6 +45,8 @@ http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8
 http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV4 (302p)
 http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 576" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV2 (576p) [Not 24/7]
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVBET.us" tvg-name="Pluto TV BET" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Entertainment",Pluto TV BET (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?
