@@ -150,8 +150,10 @@ https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVBET.us" tvg-name="BET" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Entertainment",Pluto TV BET (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Family Feud
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Family Feud (XUMO)
+https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Fat Guys in the Woods (720p)
+https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="General",ITV3 (432p)
 http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
