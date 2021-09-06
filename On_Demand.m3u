@@ -75,82 +75,30 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (1080p)
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (720p)
-https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports Network (XUMO)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports TV (360p)
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:0 tvg-id="ext" group-title="Sports",All Sports TV Network (404p)
 https://2-fss-2.streamhoster.com/pl_120/amlst:203932-1476320/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bek Sports East (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bek Sports West (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Captital OTB Betting (720p)
-https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (STIRR) (1080p)
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (US) (720p)
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",ESPN (360p)
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",ESPN (720p)
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Sports",ESPN 2 (720p)
-http://164.68.124.111/espn2.m3u8
 #EXTINF:0 tvg-id="ESPN2.us" group-title="Sports",ESPN 2 (360p)
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ESR (US) (1080p)
-https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ESTV (720p)
-https://estv-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",ESTV (1080p)
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fight Box (480p)
-http://ott-cdn.ucom.am/s86/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Fighting Spirit (720p)
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Fite (720p)
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Football Daily (XUMO)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports Australia (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",FTF For The Fans (720p)
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (720p)
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (720p)
-https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
-https://fueltv-fueltv-10-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
-https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
-https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Brazil) (720p)
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (India) (1080p)
-https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Italy) (1080p)
-https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Mexico) (1080p)
-https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Netherland) (1080p)
-http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Spain) (1080p)
-https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Sweden) (1080p)
-https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Glory Kickboxing
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",grvty (1080p)
