@@ -1,97 +1,466 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="",Global News 
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dNQUbok.png" group-title="",Assemblee Nationale du Quebec
-http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
-http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CBC News Network
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="",CPAC
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="" group-title="",Eawaz TV (CA)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/HRqcIcR.png" group-title="",EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",EWTN Canada
-https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
-https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/1VlArCc.png" group-title="Music",GEM Arabia
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="",Global British Columbia
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="",Global Calgary
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7R10c5i.png" group-title="",Global Edmonton
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="",Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="",Global Toronto
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV (Scarborough)
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="",Legislative Assembly of Ontario
-https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="",NTV
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="",NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ONE STUDIO
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",PRIME CANADA TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV
-https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="",TAG TV
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="",Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="",The Shopping Channel
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/oRigj9q.jpg" group-title="",Télé Culturelle Médias
-https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="",VBS
-https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/chunklist.m3u8
+
+#EXTINF:-1,&Prive HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1, &Flix HD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF :-1, HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1,Moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,WarnerTVHD 720p
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,NOS studioHD
+http://185.236.229.21:9981/play/a054
+#EXTINF:-1,AmediaHD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1, Crackle
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,24Hour Hollywood Movie
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1, PlutoTV1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1, PlutoTV Horror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1, PlutoTV Romance 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d&serverSideAds=false
+#EXTINF:-1,PopCornFlix
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1,StirrMovies Horror
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+#EXTINF:-1,TVCine Emotion
+http://185.236.229.21:9981/play/a05z
+#EXTINF:-1,TVCine Action
+http://185.236.229.21:9981/play/a04n
+#EXTINF:-1,RougeTV
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
+#EXTINF:-1, MotorCyclist 
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+#EXTINF:-1,TasteMade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 ,JASMINE
+http://212.42.193.122:8888/play/a00o/index.m3u8
+#EXTINF:-1, FashionTV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+
+[Temporary Entertainment]
+#EXTINF:-1,USA:  5 STARMAX
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11302
+#EXTINF:-1,USA:  ACTION MAX
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11303
+#EXTINF:-1,USA:  CINEMAX EAST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11304
+#EXTINF:-1,USA:  CINEMAX WEST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11305
+#EXTINF:-1,USA:  MORE MAX
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11306
+#EXTINF:-1,USA:  OUTERMAX
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11307
+#EXTINF:-1,USA:  THRILLER MAX
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11308
+#EXTINF:-1,USA:  EPIX
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11309
+#EXTINF:-1,USA:  EPIX HITS
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11311
+#EXTINF:-1,USA:  EPIX2
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11312
+#EXTINF:-1,USA:  SHOWTIME EXTREME
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11313
+#EXTINF:-1,USA:  SHOWTIME BEYOND
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11314
+#EXTINF:-1,USA:  STARZ WEST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11315
+#EXTINF:-1,USA:  SHOWTIME EAST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11316
+#EXTINF:-1,USA:  SHOWTIME WEST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11317
+#EXTINF:-1,USA:  STARZ ENCORE WESTERNS
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11318
+#EXTINF:-1,USA:  STARZENCORE SUSPENSE
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11319
+#EXTINF:-1,USA:  STARZENCORE FAMILY
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11320
+#EXTINF:-1,USA:  STARZENCORE CLASSIC
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11321
+#EXTINF:-1,USA:  STARZ ENCORE ACTION
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11323
+#EXTINF:-1,USA:  STARZ ENCORE
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11324
+#EXTINF:-1,USA:  STARZ KIDS&FAMILY
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11325
+#EXTINF:-1,USA:  STARZ IN BLACK
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326
+#EXTINF:-1,USA:  STARZ EDGE
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11327
+#EXTINF:-1,USA:  SHOWTIME WOMEN
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11328
+#EXTINF:-1,USA:  STARZ COMEDY
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11329
+#EXTINF:-1,USA:  STARZ EAST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11330
+#EXTINF:-1,USA:  SHOWTIME SHOWCASE
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11331
+#EXTINF:-1,USA:  SHOWTIME NEXT
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11332
+#EXTINF:-1,USA:  SHOWTIME FAMILY ZONE
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11333
+#EXTINF:-1,USA:  HBO ZONE
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11334
+#EXTINF:-1,USA:  HBO WEST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11335
+#EXTINF:-1,USA:  HBO COMEDY
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11336
+#EXTINF:-1,USA:  HBO SIGNATURE
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11337
+#EXTINF:-1,USA:  HBO FAMILY
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11338
+#EXTINF:-1,USA: HBO 2
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11339
+
+
+
+
+[xxx]
+#EXTINF:0,French Lover 
+http://185.134.22.131:8080/perla123/perla123/9563
+
+#EXTINF:-1 ,| DORCELXXX
+http://svrfit.com:25461/Ednar889967/536286/189363
+#EXTINF:0,Dorcel Club
+http://yeninesiliptv.com:8080/ediz99/ediz9999/53532
+
+#EXTINF:-1,| DUSK!
+http://yeninesiliptv.com:8080/ediz99/ediz9999/53534
+#EXTINF:0,MetArt
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259917
+
+#EXTINF:0, : ASMR FANTASY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482087
+#EXTINF:0, : BABES
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482089
+#EXTINF:0, : BABES UNLEASHED
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482090
+#EXTINF:0, : BABESALICIOUS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482091
+#EXTINF:0, : BAD DADDY POV
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482092
+#EXTINF:0, : BAEB
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482093
+#EXTINF:0, : BANGBUS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482094
+#EXTINF:0, : BELLESA FILMS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482095
+#EXTINF:0, : BIG NATURALS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482096
+#EXTINF:0, : BIG TITS AT SCHOOL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482097
+#EXTINF:0, : BITCHES ABROAD
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482098
+#EXTINF:0, : BLACK GFS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482099
+#EXTINF:0, : BLACK IS BETTER
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482100
+#EXTINF:0, : BLACKED
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482101
+#EXTINF:0, : BLACKED RAW
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482102
+#EXTINF:0, : BLOW ME POV
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482103
+#EXTINF:0, : BRATTY SIS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482104
+#EXTINF:0, : BRAZZERS EN ESPANOL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482105
+#EXTINF:0, : BROKEN BABES
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482106
+#EXTINF:0, : BROKEN MILF
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482107
+#EXTINF:0, : CUM 4K
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482108
+#EXTINF:0, : DAD CRUSH
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482110
+#EXTINF:0, : DAUGHTER SWAP
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482111
+#EXTINF:0, : DAY WITH A PORNSTAR
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482112
+#EXTINF:0, : DEEPER
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482113
+#EXTINF:0, : DFD BUSTY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482114
+#EXTINF:0, : DDF NETWORK
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482115
+#EXTINF:0, : DIGITAL PLAYGROUND
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482116
+#EXTINF:0, : DOG FART NETWORK
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482117
+#EXTINF:0, : DON'T BREAK ME
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482118
+#EXTINF:0, : ELEGANT ANAL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482119
+#EXTINF:0, : ERITO
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482120
+#EXTINF:0, : EROTIC SPICE
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482121
+#EXTINF:0, : EXOTIC 4K
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482122
+#EXTINF:0, : EXXXTRA SMALL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482123
+#EXTINF:0, : FAKE AGENT
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482124
+#EXTINF:0, : FAKE AGENT UK
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482125
+#EXTINF:0, : FAKE COP
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482126
+#EXTINF:0, : FAKE DRIVING SCHOOL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482127
+#EXTINF:0, : FAKE HOSPITAL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482128
+#EXTINF:0, : FAKE HOSTEL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482129
+#EXTINF:0, : FAKE TAXI
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482130
+#EXTINF:0, : FAMILY SINNERS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482131
+#EXTINF:0, : FAMILY STROKES
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482132
+#EXTINF:0, : FAMILY XXX
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482133
+#EXTINF:0, : FEMALE AGENT
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482134
+#EXTINF:0, : FEMALE FAKE TAXI
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482135
+#EXTINF:0, : FEVER FILMS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482136
+#EXTINF:0, : FIRST ANAL QUEST
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482137
+#EXTINF:0, : FITNESS ROOMS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482138
+#EXTINF:0, : FORGIVE ME FATHER
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482139
+#EXTINF:0, : GF REGENVE
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482140
+#EXTINF:0, : GIRLS GONE PINK
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482141
+#EXTINF:0, : GOTMYLF
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482142
+#EXTINF:0, : HENTAI
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482143
+#EXTINF:0, : HER LIMIT
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482144
+#EXTINF:0, : HOT WIFE XXX
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482145
+#EXTINF:0, : I KNOW THAT GIRL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482146
+#EXTINF:0, : JAPAN LUST
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482147
+#EXTINF:0, : JAV HUB
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482148
+#EXTINF:0, : JAYS POV
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482149
+#EXTINF:0, : JESH BY JESH
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482150
+#EXTINF:0, : KINKY SPA
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482151
+#EXTINF:0, : LETS DO IT
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482152
+#EXTINF:0, : LIFE SELECTOR
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482153
+#EXTINF:0, : LOVE HER ASS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482154
+#EXTINF:0, : MASSAGE ROOMS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482155
+#EXTINF:0, : MEAN GIRLS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482156
+#EXTINF:0, : MIKES APARTMENT
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482157
+#EXTINF:0, : MILE HIGH
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482158
+#EXTINF:0, : MILF HUNTER
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482159
+#EXTINF:0, : MOFOS B SIDES
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482160
+#EXTINF:0, : MOFOS LAB
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482161
+#EXTINF:0, : MOM KNOWS BEST
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482162
+#EXTINF:0, : MOM TEACH SEX
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482163
+#EXTINF:0, : MONEY TALKS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482164
+#EXTINF:0, : MR LUCKY POV
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482165
+#EXTINF:0, : MY 18 TEENS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482166
+#EXTINF:0, : MY DIRT HOBBY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482167
+#EXTINF:0, : MY FAMILY PIES
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482168
+#EXTINF:0, : MY FRIENDS HOT MOM
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482169
+#EXTINF:0, : MY LIFE IN MIAMI
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482170
+#EXTINF:0, : MY PERVY FAMILY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482171
+#EXTINF:0, : MY VERY FIRST TIME
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482172
+#EXTINF:0, : MYLF
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482173
+#EXTINF:0, : NANNY SPY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482174
+#EXTINF:0, : NAUGHTY AMERICA
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482175
+#EXTINF:0, : NF BUSTY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482176
+#EXTINF:0, : NUBILE FILMS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482177
+#EXTINF:0, : OFFICE OBSESSION
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482178
+#EXTINF:0, : PERV MOM
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482179
+#EXTINF:0, : PERVS ON PATROL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482180
+#EXTINF:0, : PORNO ACADEMIE
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482181
+#EXTINF:0, : POVD
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482182
+#EXTINF:0, : PRESTIGE JAPAN
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482183
+#EXTINF:0, : PRETTY DIRTY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482184
+#EXTINF:0, : PRIVATE
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482185
+#EXTINF:0, : PROPERTY SEX
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482186
+#EXTINF:0, : PUBLIC AGENT
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482187
+#EXTINF:0, : PUBLIC PICKUPS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482188
+#EXTINF:0, : PURE18
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482189
+#EXTINF:0, : RAW ATTACK
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482190
+#EXTINF:0, : REAL EX GIRLFRIENDS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482191
+#EXTINF:0, : REAL SENSUAL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482192
+#EXTINF:0, : RK PRIME
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482193
+#EXTINF:0, : SELL YOUR GF
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482194
+#EXTINF:0, : SEX WORKING
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482195
+#EXTINF:0, : SHARE MY BF
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482196
+#EXTINF:0, : SIS LOVES ME
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482197
+#EXTINF:0, : STEP MOM LESSONS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482198
+#EXTINF:0, : STEPSIBLINGS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482199
+#EXTINF:0, : STRANDED TEENS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482200
+#EXTINF:0, : SWALLOW SALON
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482201
+#EXTINF:0, : THE INNOCENCE OF YOUTH
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482202
+#EXTINF:0, : TINY 4K
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482203
+#EXTINF:0, : TONIGHTS GIRLFRIEND
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482204
+#EXTINF:0, : TURNING TWISTYS
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482205
+#EXTINF:0, : TUSHY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482206
+#EXTINF:0, : TWISTYS ORIGINAL
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482207
+#EXTINF:0, : VIXEN
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482208
+#EXTINF:0, : VLOG XXX
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482209
+#EXTINF:0, : WE LIVE TOGETHER
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482210
+#EXTINF:0, : WHEN GIRLS PLAY
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/482211
+
+#EXTINF:-1 ,Adult Sensation 1
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
+
+
+#EXTINF:0,Adult Paradise 1
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91592
+#EXTINF:0,Adult Paradise 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91593
+#EXTINF:0,Adult Paradise 3
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91594
+#EXTINF:0,Adult Paradise 4
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91595
+#EXTINF:0,Adult Paradise 5
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91596
+#EXTINF:0,Adult Paradise 6
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
+#EXTINF:0,Adult Paradise 7
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
+#EXTINF:0,Adult Paradise 8
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
+#EXTINF:0,Adult Paradise 9
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
+#EXTINF:0,Adult Paradise 10
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91601
+
+#EXTINF:0,Original P-rnBox 1 
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215379
+#EXTINF:0,Original P-rnBox 2	
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215380
+#EXTINF:0,Original P-rnBox 3
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215381
+#EXTINF:0,Original P-rnBox 4	
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215382
+#EXTINF:0,Original P-rnBox 5		
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215384
+#EXTINF:0,Original P-rnBox 6	
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215385
+#EXTINF:0,Original P-rnBox 7	
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215386
+#EXTINF:0,Original P-rnBox 8
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215387
+#EXTINF:0,Original P-rnBox 9
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215388
+#EXTINF:0,Original P-rnBox 10
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215389
+#EXTINF:0,Original P-rnBox 11	
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215390
+#EXTINF:0,Original P-rnBox 12
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215393
+#EXTINF:0,Original P-rnBox 13
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215394
+#EXTINF:0,Original P-rnBox 14
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215395
+#EXTINF:0,Original P-rnBox 15
+http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215398
+
+
+#EXTINF:0,XXX: BARELY LEGAL TV
+http://ky-iptv.com:25461/funtimes/funtimes/218072
+#EXTINF:0,18+: SexWithMuslims
+http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470441
+
+
+
+#EXTINF:0,STARS EXCLUSIVE: ARIANA MARIE
+http://extremetv.club:80/charles12/12charles/85120
+#EXTINF:0,STARS EXCLUSIVE: MIA MALKOVA
+http://extremetv.club:80/charles12/12charles/85136
+#EXTINF:0,STARS EXCLUSIVE: LANA RHOADES
+http://extremetv.club:80/charles12/12charles/85132
+#EXTINF:0,STARS EXCLUSIVE: VALENTINA NAPPI
+http://extremetv.club:80/charles12/12charles/85140
+#EXTINF:0,STARS EXCLUSIVE: GINA VALENTINA
+http://extremetv.club:80/charles12/12charles/85129
+
+#EXTINF:0,XXX: PIRATES
+http://mains.services:2086/live/mikekoot/1757909/66526.ts
+#EXTINF:0,XXX: PIRATES 2_By : mrcrackpro.blogspot.com
+http://mains.services:2086/live/mikekoot/1757909/93509.ts
