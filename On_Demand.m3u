@@ -211,6 +211,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #EXTINF:-1 tvg-id="AMCAbsoluteReality.us" tvg-name="AMC Absolute Reality" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Documentary",AMC Absolute Reality (1080p)
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",All Weddings (1080p)
+https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBET.us" tvg-name="BET" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Entertainment",Pluto TV BET (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Family Feud (XUMO)
@@ -227,7 +229,7 @@ http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="USBA300024TN" tvg-chno="1006" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN_20210720T084138.png" group-title="USA;News & Opinion",LiveNOW from FOX
+#EXTINF:-1 tvg-id="USBA300024TN" tvg-chno="1006" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN_20210720T084138.png" group-title="USA;News",LiveNOW from FOX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
