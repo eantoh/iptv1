@@ -208,11 +208,17 @@ https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",History Channel (720p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCAbsoluteReality.us" tvg-name="AMC Absolute Reality" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Documentary",AMC Absolute Reality (1080p)
-https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",All Weddings (1080p)
-https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",All Weddings (720p)
+https://amc-allweddings-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",AMC Presents (720p)
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",AMC Slightly Off (1080p)
+https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCAbsoluteReality.us" tvg-name="AMC Absolute Reality" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Absolute Reality (1080p)
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Asiancrush (720p)
+https://ac-samsung.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBET.us" tvg-name="BET" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Entertainment",Pluto TV BET (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Family Feud (XUMO)
@@ -233,6 +239,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (720p)
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-name="CGTN English" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN English (720p)
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="224" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="News",Bloomberg TV
@@ -277,6 +285,221 @@ https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVTelenovela.us" tvg-name="Pluto TV Telenovela" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="Telemundo",Pluto TV Telenovela (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN Dare to Dream (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN Français (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN International (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN Kids (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN Latino (480p)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN Latino (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN Praise Him Music Channel (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN Proclaim! (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",3ABN Russia (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Horreya TV (1080p)
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",AL KARMA TV (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Aliento Vision
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Australia (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Family (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Middle East (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV North America & Canada (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Praise (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Talmaza (Discipleship) (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Youth & English (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Better Life TV (720p)
+https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Better Life TV
+https://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Bible Explorations (480p)
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Catholic TV (720p)
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CBN Español (1080p)
+https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CBN Family (1080p)
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0 tvg-id="ABS-CBNNewsChannel.us" group-title="Religious",CBN News (1080p)
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:0 tvg-id="ABS-CBNNewsChannel.us" group-title="Religious",CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Christian Youth Channel (CYC)
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Christian Youth Channel (CYC) (720p)
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Cornerstone TV (720p)
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CTN (404p)
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CTN
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CTN (WFGC) (720p)
+http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Divine Vision (480p)
+https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Dr. Gene Scott (480p)
+https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",El Sembrador Nueva Evangelización (ESNE) (1080p)
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",El Sembrador Nueva Evangelización (ESNE) (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Elbeshara GTV
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Esperanza TV (480p)
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0 tvg-id="EWTN.us" group-title="Religious",EWTN
+http://bogtvhdlive-f.akamaihd.net/i/main_1@79148/master.m3u8
+#EXTINF:0 tvg-id="EWTN.us" group-title="Religious",EWTN (720p)
+https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EWTN Asia-Pacific (720p)
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EWTN Canada (720p)
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EWTN Canada (720p)
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EWTN CANAL CATÓLICO (720p)
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EWTN Europe (720p)
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:0 tvg-id="EWTN.de" group-title="Religious",EWTN katholisches TV [Not 24/7]
+https://cdn3.wowza.com/1/NWFLbEVOVjNsQWhP/YnpVbld5/hls/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",External Ottera (Bumblebee) (720p)
+https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
+#EXTINF:0 tvg-id="ext" group-title="Religious",EXTREMA TV (1080p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Faith & Life TV (720p)
+https://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Genesis TV (720p)
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="GodTV.us" group-title="Religious",GOD TV (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",GoodLife 45 (720p)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:0 tvg-id="Hillsong.uk" group-title="Religious",Hillsong Channel (1080p)
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Holly Wire (720p)
+https://hollywire-samsung-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Hope Channel International (1080p)
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Inspiration TV (360p)
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Inspiration TV (English)
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_2_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Introuble (1080p)
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",InTrouble
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1005f9d5d3cf00074c0395/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 tvg-id="ext" group-title="Religious",InWonder
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1004e0a5714d000745650d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 tvg-id="ext" group-title="Religious",ISN (1080p)
+https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",IZ TV RitmoVision Phoenix (K38IZ-D) (480i)
+https://v-px.mybtv.net/event/32/640x480.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:0 tvg-id="JBS.us" group-title="Religious",JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:0 tvg-id="JewishLifeTV.us" group-title="Religious",Jewish Life TV (480p)
+https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
+http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Kalemeh TV (1080p)
+http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",LifevisionTV (720p)
+https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",LIT (1080p)
+https://studio1-lit-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Local Now Inspiration (720p)
+https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",LoveWorld USA (1080p)
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Mission TV (720p)
+http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Mission TV (1080p)
+https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",NRBTV (480p)
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV Faith TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=643&deviceId=5c58a539fae3812612f33ca3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV Hillsong Channel (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=898&deviceId=5d486b87428fe37d8cadba44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV Historia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV Historias de Ultratumba
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV HISTORY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=651&deviceId=5a4d35dfa5c02e717a234f86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV HISTORY (Germany)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=302&deviceId=5d767b1c126c65d0a307355f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV HISTORY+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6941b95267e225e59c0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4637a2ad-1dd6-49d1-a8cc-435684c4a7ea&deviceId=5ad9b6941b95267e225e59c0&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV Hogar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Religious",Pluto TV TBN (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=644&deviceId=5d486b2eeddd9576d66f9066&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="Religious",PTL TV Network (720p)
+https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Radio Javan (1080p)
+https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="revelation.uk" group-title="Religious",Revelation TV (720p)
+https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Revolt (720p)
+https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",SafeTV (1080p)
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Samsung Wildlife
+https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Samuel Goldwyn Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsamuelgoldwyn/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Samuel Goldwyn Channel (1080p)
+https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",SonLife Broadcasting (SBN)
+https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",SonLife Broadcasting (SBN)
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",SonLife Broadcasting Global (SBN)
+https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Spirit TV (720p)
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",TBN Asia
+http://210.210.155.35/qwr9ew/s/s39/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",TBN KPAZ-DT1 (720p)
+https://v-px.mybtv.net/event/50/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:0 tvg-id="ext" group-title="Religious",TBN US (1080p)
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
+#EXTINF:0 tvg-id="TCT.us" group-title="Religious",TCT
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",The Now Network (480p)
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Trinity Channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Victory Television Network (240p)
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Vida Mejor TV
+https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ResurrectionTV.gh" tvg-name="Resurrection TV" tvg-country="GH" tvg-language="Akan" tvg-logo="https://i.imgur.com/d4UOolK.jpg" group-title="Ghana",Resurrection TV (384p)
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
