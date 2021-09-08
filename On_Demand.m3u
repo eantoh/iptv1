@@ -233,8 +233,6 @@ http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 576" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="General",ITV2 (576p) [Not 24/7]
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 
-#EXTINF:-1 channel-id="14020" radio="false" tvg-id="covid-19-news" tvg-logo="https://i.mjh.nz/Stirr/.images/covid-19-news.png" tvg-chno="1" group-title="News", COVID-19 News
-https://dai.google.com/linear/hls/event/hm3bn851RHqsIK1Y3T462g/master.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA300024TN" tvg-chno="1006" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN_20210720T084138.png" group-title="News",LiveNOW from FOX
