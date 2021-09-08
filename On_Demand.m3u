@@ -72,7 +72,12 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNickJr.us" tvg-name="Pluto TV Nick Jr." tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Pluto TV Nick Jr. (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca6748a37b88b269472dad9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=978&terminate=false&userId=
 
-
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports", PlayersTV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports", SportsGrid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports", Outside TV+
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (1080p)
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports Network
@@ -172,7 +177,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c00073573
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="Comedy",FailArmy (1080p)
 https://failarmy-linear.plex.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music", Stingray Hitlist
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music", S'Ray Greatest Hits
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music", S'Ray Hot Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music", S'Ray Classic Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music", Stingray Soul Storm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music", Qello Concerts
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music", Stingray Karaoke
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music", Latido Music
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVEVO2K.us" tvg-name="Pluto TV VEVO 2K" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Pluto TV VEVO 2K (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVEVO70s.us" tvg-name="Pluto TV VEVO 70's" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Pluto TV VEVO 70's (1080p)
@@ -263,6 +283,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="5877ac8cb791f4eb4a140d81" tvg-chno="601" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Cooking",Food TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Food",Tastemade
+https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Food", So Yummy!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Fashionbox
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -276,6 +300,11 @@ http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVPG16.fr" tvg-name="Fashion TV PG16" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",Fashion TV PG16 (1080p)
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Lifestyle", 278 Circle
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-circle/CDN/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Lifestyle", 321 People TV
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title=" Lifestyle", Revry
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-country="US" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQezVfVamzd08ywLqOjqVqfOtEL-ZyphG2b0w&usqp=CAU" group-title="Telemundo",Telemundo (416p)
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
@@ -505,3 +534,13 @@ https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/chunklist.m3u8
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVAfrica.gh" tvg-name="TV Africa" tvg-country="GH" tvg-language="Akan" tvg-logo="https://i.imgur.com/rTsl8XB.jpg" group-title="Ghana",TV Africa (720p)
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Shopping", 455 QVC
+https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Shopping", 457 HSN
+https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Shopping", 461 JTV
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/ccddaf02_1_1728/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true"Shopping" Live TV", ShopLC
+
+
