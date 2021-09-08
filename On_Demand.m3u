@@ -218,6 +218,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:0 tvg-id="1 MUSIC CHANNEL.mx" group-title="Music",1 MUSIC CHANNEL 
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Documentary",AfroLandTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=811&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=itvezuxN1UfY5esSUYJw&custom_7=60e737a4ebef9d002c4d0a0c
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Documentary", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Documentary",National Geographic (720p)
@@ -226,17 +228,25 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWILDAsia.us" tvg-name="Nat Geo WILD Asia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",Nat Geo WILD Asia (720p)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Documentary",WildEarth
+https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=itvezuxN1UfY5esSUYJw&channelId=60d4edddb2fdec002c141135
 #EXTINF:0 tvg-id="NatGeoWILD.us" group-title="Documentary",Nat Geo WILD
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 #EXTINF:0 tvg-id="history-rus" group-title="Documentary",HISTORY
 https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",History Channel (720p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ondemandchina_logo_dark.png" group-title="Documentary",OnDemandChina
+https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_OnDemandChina/playlist.m3u8?ads.wurl_channel=899&ads.wurl_name=OnDemandChina&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=itvezuxN1UfY5esSUYJw&ads.plex_id=60d4edd7b2fdec002c14112b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Documentary", Bob Ross
 https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/real-stories-logo.png" group-title="Documentary",Real Stories
+https://lds-realstories-plex.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realstories-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=-nmbsyBG4ozLu23jq3jw&channelId=5f74cf83ffbe690040689f4a
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Documentary",  Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Global Got Talent (XUMO)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Entertainment", CineLife
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",All Weddings (720p)
@@ -255,6 +265,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e
 https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Fat Guys in the Woods (720p)
 https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_2.png" group-title="Entertainment",Nosey
+https://9c27771bc8af464c8588ae326fe26edd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Nosey/playlist.m3u8?ads.wurl_channel=319&ads.wurl_name=Nosey&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=itvezuxN1UfY5esSUYJw&ads.plex_id=5f0ff262d71dcb00449ec015&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="General",ITV3 (432p)
 http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
@@ -277,6 +289,8 @@ https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="224" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="News",Bloomberg TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="News",Yahoo! News (720p)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="News",Reuters TV
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=itvezuxN1UfY5esSUYJw&ads.plex_id=5eea71d65252710041e0ccbc&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1 tvg-id="USAJ3400011A8" tvg-chno="1015" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/USAJ3400011A820200730102745.png" group-title="News",Bloomberg TV+ UHD
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy%3D1YNY%26ads.wurl_channel%3D389%26ads.wurl_name%3DBloomberg%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
@@ -305,6 +319,17 @@ https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknews
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
 #EXTINF:-1 tvg-id="NDTV24X7.in" tvg-name="NDTV 24X7" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Science",CoronaVirus.Gov (Bumblebee) (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
+#EXTINF:0 tvg-id="NASATV.us" group-title="Science",NASA TV (720p)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Science",Smithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Science",Smosh (Bumblebee) (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
+EXTINF:0 tvg-id="ext" group-title="Science",Popular Science (720p)
+https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVFood.us" tvg-name="Pluto TV Food" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" group-title="Cooking",Pluto TV Food (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc280c9aa218c0009724b4b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=0734c282-0583-11eb-a18c-0242ac110002&terminate=false&userId=
