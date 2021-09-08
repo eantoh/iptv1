@@ -219,8 +219,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:0 tvg-id="1 MUSIC CHANNEL.mx" group-title="Music",1 MUSIC CHANNEL 
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Documentary",AfroLandTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=811&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=itvezuxN1UfY5esSUYJw&custom_7=60e737a4ebef9d002c4d0a0c
+
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Documentary", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Documentary",National Geographic (720p)
@@ -587,9 +586,11 @@ http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/pl
 #EXTINF:0 tvg-id="ext" group-title="Religious",Vida Mejor TV
 https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ResurrectionTV.gh" tvg-name="Resurrection TV" tvg-country="GH" tvg-language="Akan" tvg-logo="https://i.imgur.com/d4UOolK.jpg" group-title="Ghana",Resurrection TV (384p)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="African",AfroLandTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=811&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=itvezuxN1UfY5esSUYJw&custom_7=60e737a4ebef9d002c4d0a0c
+#EXTINF:-1 tvg-id="ResurrectionTV.gh" tvg-name="Resurrection TV" tvg-country="GH" tvg-language="Akan" tvg-logo="https://i.imgur.com/d4UOolK.jpg" group-title="African",Resurrection TV (384p)
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVAfrica.gh" tvg-name="TV Africa" tvg-country="GH" tvg-language="Akan" tvg-logo="https://i.imgur.com/rTsl8XB.jpg" group-title="Ghana",TV Africa (720p)
+#EXTINF:-1 tvg-id="TVAfrica.gh" tvg-name="TV Africa" tvg-country="GH" tvg-language="Akan" tvg-logo="https://i.imgur.com/rTsl8XB.jpg" group-title="African",TV Africa (720p)
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Shopping", 455 QVC
