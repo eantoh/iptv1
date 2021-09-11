@@ -379,7 +379,7 @@ http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 576" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="General",ITV2 (576p) [Not 24/7]
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="International",BBC World News (576p)
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
