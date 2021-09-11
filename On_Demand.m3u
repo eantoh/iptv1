@@ -426,16 +426,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
 #EXTINF:-1 tvg-id="NDTV24X7.in" tvg-name="NDTV 24X7" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Science",CoronaVirus.Gov (Bumblebee) (720p)
+#EXTINF:0 tvg-id="ext" group-title="Education",CoronaVirus.Gov (Bumblebee)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
-#EXTINF:0 tvg-id="NASATV.us" group-title="Science",NASA TV (720p)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Science",Smithsonian Channel Asia (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Education",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Education",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SEducation",Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Science",Smosh (Bumblebee) (720p)
+#EXTINF:0 tvg-id="ext" group-title="Education",Smosh (Bumblebee) (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
-EXTINF:0 tvg-id="ext" group-title="Science",Popular Science (720p)
+EXTINF:0 tvg-id="ext" group-title="Education",Popular Science (720p)
 https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Education",Now You Know (Bumblebee)
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u
 
 #EXTINF:-1 tvg-id="PlutoTVFood.us" tvg-name="Pluto TV Food" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" group-title="Cooking",Pluto TV Food (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc280c9aa218c0009724b4b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=0734c282-0583-11eb-a18c-0242ac110002&terminate=false&userId=
