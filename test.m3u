@@ -1,1 +1,19 @@
 ﻿#EXTM3U
+ #EXTINF:-1,---- < BO  CUONG > ---
+http://lucky.lts1.net:23000/live/luca1/luca2/13132.ts
+#EXTINF:0, NATIONAL GEOGRAPHIC CHANEL
+udp://@225.1.1.244:30120
+#EXTINF:0, National Geographic HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/200px-National_Geographic_Channel.svg.png",National Geographic HD
+udp://@225.1.2.235:30120
+#EXTINF:0, Discovery tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Discovery_Channel_International.svg/240px-Discovery_Channel_International.svg.png",Discovery
+udp://@225.1.1.238:30120
+#EXTINF:0, Discovery World HD tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_world_hd_%28small_globe%29.png/220px-Discovery_world_hd_%28small_globe%29.png",Discovery World HD
+udp://@225.1.2.223:30120
+#EXTINF:0, Animal Planet tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/190px-Animal_Planet_logo_%28black_and_green%29.svg.png",Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:0,AFC-HD
+udp://@225.1.1.198:30120
+#EXTINF:0,Da Vinci HD
+udp://@225.1.1.197:30120
+#EXTINF:0,OUTDOOR HD
+udp://@225.1.2.215:30120
