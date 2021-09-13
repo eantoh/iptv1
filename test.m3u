@@ -10,7 +10,7 @@ udp://@225.1.1.238:30120
 #EXTINF:0, Discovery World HD tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_world_hd_%28small_globe%29.png/220px-Discovery_world_hd_%28small_globe%29.png",Discovery World HD
 udp://@225.1.2.223:30120
 #EXTINF:0, Animal Planet tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/190px-Animal_Planet_logo_%28black_and_green%29.svg.png",Animal Planet
-udp://@225.1.1.231:30120
+HTTPS://@225.1.1.231:30120
 #EXTINF:0,AFC-HD
 udp://@225.1.1.198:30120
 #EXTINF:0,Da Vinci HD
