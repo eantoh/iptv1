@@ -1,3 +1,94 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6IbRx3q.png" group-title="USA",US | Cartoon Network Latinoamerica [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCQySZQ6rrgJXRuonMwIIGMA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYhcIby.png" group-title="Kids", Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/chunklist_w17713575.m3u8?nimblesessionid=698278622
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4MNpDTQ.png" group-title="Kids", Animax
+http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dr0fILL.png" group-title="Kids", Aniplus
+http://210.210.155.35/session/a052d55e-cdbe-11eb-a072-b38e91e92175/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Kids", Boomerang
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network English
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network HD+
+http://indo51.gcdn.co/kids-CartoonnetworkHDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network HD+ BDC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network Hindi
+http://mygoodstream.pw/proxy.php/http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids Hindi
+http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney 
+https://bit.ly/3k5HJ4x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Hindi
+http://mygoodstream.pw/proxy.php/http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Disney Hindi (2)
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney English
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids", Disney JR Hindi
+http://pkr.cinepex.tv:8278/disneyjuniorhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="Kids", Disney XD
+http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DraJIkm.png" group-title="Kids", EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXPWPi3.png" group-title="Kids", Marvel HQ
+http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDsHkBv.png" group-title="Kids", Majed
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3 4K
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HibXka1.png" group-title="Kids", Mr Bean Show
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick Hindi
+http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior Hindi
+http://tvflix004.ddns.net:3232/hungama-kids/index.m3u8?token=tvflixlive.ml
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior (2)
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior BDC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Adym52U.png" group-title="Kids", Nickelodeon
+http://indo51.gcdn.co/kids-nickeloden/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjX0TbW.png" group-title="Kids", Nick Toons
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/nicktoons.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo Hindi HD
+http://indo51.gcdn.co/kids-POGO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden Hindi
+http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Bangla
+http://103.81.104.118/hls/sonyyay.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay 
+http://indo51.gcdn.co/kids-SonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Hindi
+http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon
+http://mygoodstream.pw/proxy.php/https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon (2)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u26ku9p.png" group-title="Kids", Wow Kids Hindi
+http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u26ku9p.png" group-title="Kids", Wow Kids YUP
+http://indo51.gcdn.co/kids-WOWKIDZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids Hindi", Discovery Kids Hindi [H]
+https://idvd.multitvsolution.com:443/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids Hindi", Dishney Junior [H]
+http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shEcc31.png" group-title="Kids Hindi", Lale [H]
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mx6sZOU.png" group-title="Kids Hindi", TRT Cocuk [H]
+https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
