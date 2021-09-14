@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="811" tvg-name="811", Astro SuperSport HD
-http://foctv.xyz:25510/Amir5641/YY5641/148
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports" tvg-id="812" tvg-name="812", Astro SuperSport 2 HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="811" tvg-name="811", Astro SuperSport HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563141
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/59XPQ03/hd1.png",BeinSports HD1
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015846
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/t48LRg4/hd2.png",BeinSports HD2
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015847
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/qx4hMQ4/hd3.png",BeinSports HD3
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015848
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/0qW1fnP/hd4.jpg",BeinSports HD4
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015849
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dkzBHYf/hd5.jpg",BeinSports HD5
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015850
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/W2BxdS5/hd6.jpg",BeinSports HD6
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015851
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/w44xcrK/hd7.jpg",BeinSports HD7
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015852
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/NmZ98YR/hd8.jpg",BeinSports HD8
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015853
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7YwV7F5/hd9.jpg",BeinSports HD9
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015854
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/L50gv6x/hd10.jpg",BeinSports HD10
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015855
