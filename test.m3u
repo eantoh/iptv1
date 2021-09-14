@@ -1,15 +1,9 @@
 #EXTM3U
-##EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids Channels", Cartoon Network English 
-http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids Channels", Disney Channel English 
-http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids Channels", Sonic Nickeloden
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids Channels", Nick 
-http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids Channels", Cartoon Network Hindi
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids Channels", Pogo
-http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids Channels", Disney Channel Hindi
-http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="811" tvg-name="811", Astro SuperSport HD
+http://foctv.xyz:25510/Amir5641/YY5641/148
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports" tvg-id="812" tvg-name="812", Astro SuperSport 2 HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="811" tvg-name="811", Astro SuperSport HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563141
