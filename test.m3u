@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/59XPQ03/hd1.png",BeinSports HD1
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015846
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/t48LRg4/hd2.png",BeinSports HD2
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015847
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/qx4hMQ4/hd3.png",BeinSports HD3
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015848
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/0qW1fnP/hd4.jpg",BeinSports HD4
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015849
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dkzBHYf/hd5.jpg",BeinSports HD5
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015850
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/W2BxdS5/hd6.jpg",BeinSports HD6
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015851
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/w44xcrK/hd7.jpg",BeinSports HD7
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015852
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/NmZ98YR/hd8.jpg",BeinSports HD8
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015853
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7YwV7F5/hd9.jpg",BeinSports HD9
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015854
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/L50gv6x/hd10.jpg",BeinSports HD10
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122015855
+#EXTINF:-1 group-title="SPORTS",Bein Sport 1
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+#EXTINF:-1 group-title="SPORTS",Bein Sport 2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
