@@ -3,6 +3,10 @@
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature East (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits (1080p)
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-country="Movies" tvg-language="English" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png" group-title="Music",Box Hits (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Malaysia (720p)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA3000041ZP" tvg-chno="1000" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USBA3000041ZP_20201208T081544.png" group-title="Movies",The Movie Hub
@@ -65,7 +69,8 @@ https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Fpopcornflixlive%2Flogo%2F2c2888fd-01b8-447d-8f03-8811a343422f?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=d05e5cc69e71d25d2e922efcf87df487" group-title="Movies",Bumblebee TV PopCornFlix Action (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network Arabic" tvg-country="MENA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic (1080p)
+#EXTINF:-1group-title="Kids",BABY TV
+http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network Arabic" tvg-country="MENA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic (1080p)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHindi.us" tvg-name="Cartoon Network Hindi" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network Hindi (432p)
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
@@ -99,6 +104,22 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/
 #EXTINF:-1 tvg-id="BumblebeeTVMasterBuilder.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2FMaster-Builders.png?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=76104478559d66ac3305d06eeeea7063" group-title="Kids",Bumblebee TV Master Builder (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
 
+#EXTINF:-1group-title="Sports",Bein premium 1sd
+http://xcwsnl28.mrnova.online:80/live/60010_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sports",Bein premium 2sd
+http://xcwsnl28.mrnova.online:80/live/60011_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sports",Bein premium 3sd
+http://xcwsnl28.mrnova.online:80/live/60012_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sports",Bein Sport1sd
+http://xcwsnl28.mrnova.online:80/live/60013_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sports",Bein Sport2sd
+http://xcwsnl28.mrnova.online:80/live/60014_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sports",Bein Sport3sd
+http://xcwsnl28.mrnova.online:80/live/60015_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sports",Bein Sport4sd
+http://xcwsnl28.mrnova.online:80/live/60016_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sports",Bein Sport5sd
+http://xcwsnl28.mrnova.online:80/live/60017_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="FreeSports" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="Sports",FreeSports (1080p)
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV" tvg-country="UK" tvg-language="" tvg-logo="" group-title="Sports",Chelsea TV (576p)
@@ -276,10 +297,8 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 tvg-id="STIRRStingrayUrbanBeats.us" tvg-name=" Stingray Urban Beats" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c"group-title="Music [Slides]", Stingray Urban Beats (1080p)
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Music",HBO Hits (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-country="Music" tvg-language="English" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png" group-title="Music",Box Hits (576p)
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1group-title="Musics",YO!MTV
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.uk" tvg-name="Clubbing TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="Music",Clubbing TV (720p)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVEVO2K.us" tvg-name="Pluto TV VEVO 2K" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Pluto TV VEVO 2K (1080p)
@@ -329,6 +348,16 @@ https://lds-realstories-plex.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realstories-p
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Documentary",  Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
 
+#EXTINF:-1group-title="Entertainment",TLCHD
+https://idvd.multitvsolution.com/idvo/tlchd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD English
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="Documentary", BBC Earth Sony
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary", Discovery Science English
+https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Documentary", Discovery Investigation
+http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMTVCribs.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ea815a515d149000748ee9b/colorLogoPNG.png" group-title="Entertainment",Pluto TV MTV Cribs (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea815a515d149000748ee9b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ea815a515d149000748ee9b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=fb612cc2-0587-11eb-97af-0242ac110002&terminate=false&userId=
 #EXTINF:-1 tvg-id="NoseyJudgeKarensCourt.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Entertainment",Nosey Judge Karen's Court (720p)
