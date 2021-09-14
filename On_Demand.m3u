@@ -531,7 +531,7 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 
 ************************MUSIC****************************
-#EXTINF:-1group-title="Musics",YO!MTV
+#EXTINF:-1group-title="Music",YO!MTV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.uk" tvg-name="Clubbing TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="Music",Clubbing TV (720p)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
