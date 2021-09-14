@@ -14,3 +14,148 @@ https://idvd.multitvsolution.com/idvo/tlchd.m3u8
 #EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png" group-title="Kênh QNET" type="stream",National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1group-title="Sport",Bein1ENG 4K
+http://yassooo.com:8080/benAlaa/829293992/80040
+#EXTINF:-1group-title="Sport",Bein2ENG 4K
+http://yassooo.com:8080/benAlaa/829293992/80039
+#EXTINF:-1group-title="Sport",Bein1ENG HD
+http://yassooo.com:8080/benAlaa/829293992/80024
+#EXTINF:-1group-title="Sport",Bein2ENG HD
+http://yassooo.com:8080/benAlaa/829293992/80023
+#EXTINF:-1group-title="Sport",BeinPremium1FHD
+http://yassooo.com:8080/benAlaa/829293992/80051
+#EXTINF:-1group-title="Sport",Bein Premium2 FHD
+http://yassooo.com:8080/benAlaa/829293992/80050
+#EXTINF:-1group-title="Sport",Bein premium 1
+http://55.1-bour.xyz:80/live/6161655/index.m3u8
+#EXTINF:-1group-title="Sport",Bein premium2
+http://55.1-bour.xyz:80/live/616194987/index.m3u8
+#EXTINF:-1group-title="Sport",Bein premium3
+http://xcwsnl28.mrnova.online:80/live/60012_.m3u8?token=
+#EXTINF:-1group-title="Sport",Bein Sport1
+http://55.1-bour.xyz:80/live/918454578/index.m3u8
+#EXTINF:-1group-title="Sport",Bein Sport2
+http://55.1-bour.xyz:80/live/69854211/index.m3u8
+#EXTINF:-1group-title="Sport",Bein Sport3
+http://55.1-bour.xyz:80/live/645587700/index.m3u8
+#EXTINF:-1group-title="Sport",Bein Sport4
+http://55.abdakaroukhai.xyz:80/live/9787488847/index.m3u8
+#EXTINF:-1group-title="Sport",Bein Sport5
+http://55.abdakaroukhai.xyz:80/live/610303030/index.m3u8
+#EXTINF:-1group-title="Sport",Bein Sport6
+http://55.abdakaroukhai.xyz:80/live/1515000000/index.m3u8
+#EXTINF:-1group-title="Sport",Bein Sport7
+http://55.abdakaroukhai.xyz:80/live/791001144/index.m3u8
+#EXTINF:-1group-title="Sport",Bein SportExtera1
+http://55.abdakaroukhai.xyz:80/live/9962564400/index.m3u8
+#EXTINF:-1group-title="Sport",Bein SportExtera2
+http://55.abdakaroukhai.xyz:80/live/880025552/index.m3u8
+#EXTINF:-1group-title="Sport",TRUE1
+https://mediasv.online/live7f/truepl1Fallback/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDU6NDU6MDQgUE0maGFzaF92YWx1ZT13b25NRStUWDR2ZjJyU1JHVE5wcm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzU4ODM1
+#EXTINF:-1group-title="Sport",TRUE2
+https://mediasv.online/premium/trueepl2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDU6NDY6MjcgUE0maGFzaF92YWx1ZT1TdHhVMzZacUZ0eE5ISTNaUkx1KzhBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzc0NTkx
+#EXTINF:-1group-title="Sport",TRUE3
+https://mediasv.online/premium/trueepl3/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDk6Mzc6MjAgQU0maGFzaF92YWx1ZT0zVEpPR3QwL0FhanBlV1dVQWFscmlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzE3NjU4
+#EXTINF:-1group-title="Sport",TRUE4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1group-title="Sport",TRUE5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1group-title="Sport",BT Sport1
+http://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1group-title="Sport",BT Sport2
+http://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1group-title="Sport",FITE
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
+#EXTINF:-1group-title="Sport",ESPN
+http://stream2.grandma.fit/fs2.m3u8?Token=Xemtvco
+#EXTINF:-1group-title="Sport",TENNIS
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1group-title="Movies",Fox Movies
+https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDIxIDY6NDE6MjAgQU0maGFzaF92YWx1ZT1wdUFLeUhicWhRdDRJWkpRN2FSL293PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzcyNzAy
+#EXTINF:-1group-title="Movies",Cenimax
+https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjEgNTo0ODoyMSBBTSZoYXNoX3ZhbHVlPUw4R0FlUU9Wc0lGYWo4SGRqUG91bXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjQmaWQ9Y2hfNDE5NzY=
+#EXTINF:-1group-title="Movies",StarMovies
+http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
+#EXTINF:-1group-title="Movies",FoxHD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1group-title="Document",TLCHD
+https://idvd.multitvsolution.com/idvo/tlchd.m3u8
+#EXTINF:-1group-title="Document",DiscoveryAsia
+https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIxIDM6MDU6NDAgUE0maGFzaF92YWx1ZT1tOUlEaHRJcC9COVFSWDJBQjlTV2t3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzI3NjM1
+#EXTINF:-1group-title="Document",AFN
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1group-title="Document",Travel XP
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1group-title="Document",Lovenature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1group-title="Document",CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1group-title="Document",Lifetime
+https://mediasv.online/tvchannel_x2/lifetime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDIxIDI6MTE6MzYgUE0maGFzaF92YWx1ZT1scjVmOTFpK1BtdHcrbkFjaEtJRHFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzQ2NjYy
+#EXTINF:-1group-title="Document",NETGEOGRAPHIC
+https://mediasv.online/tvchannel_x1/natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjEgMzo1NTo1MyBQTSZoYXNoX3ZhbHVlPXZjMm9zZVYzalFVZmdRTkZSSHNBZ3c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MTkmaWQ9Y2hfNTg5Nzg=
+#EXTINF:-1group-title="Document",NETGEOWILD
+https://mediasv.online/live7f/hd-natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjEgMzo1ODoyNiBQTSZoYXNoX3ZhbHVlPXUwREltVjhiVERUN3RxTmFKaGpzTUE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjAmaWQ9Y2hfNDEzOTM=
+#EXTINF:-1group-title="Document",ANIMALPLANET
+https://mediasv.online/tvchannel_x1/hd-animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjEgNDowMDozMCBQTSZoYXNoX3ZhbHVlPS9BRkhyUkNzOFdacEtMY2dBcHZtamc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjgmaWQ9Y2hfMjI0ODA=
+#EXTINF:-1group-title="Document",DISCOVERY
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjEgNDowMzozOSBQTSZoYXNoX3ZhbHVlPWZwc0lyVFMwdzBycFhFOElZZmtPZkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjUmaWQ9Y2hfNDcwNjU=
+#EXTINF:-1group-title="Document",FashionHD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1group-title="Document",HGTV
+http://yassooo.com:8080/benAlaa/829293992/80168
+#EXTINF:-1group-title="Document",OutDoor
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1group-title="Kids",UniversalKids
+http://flussonicusa.bdcabletv.com:80/SPR/mono.m3u8
+#EXTINF:-1group-title="Kids",BABY TV
+http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1group-title="Sport",Bein premium 1sd
+http://xcwsnl28.mrnova.online:80/live/60010_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sport",Bein premium 2sd
+http://xcwsnl28.mrnova.online:80/live/60011_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sport",Bein premium 3sd
+http://xcwsnl28.mrnova.online:80/live/60012_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sport",Bein Sport1sd
+http://xcwsnl28.mrnova.online:80/live/60013_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sport",Bein Sport2sd
+http://xcwsnl28.mrnova.online:80/live/60014_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sport",Bein Sport3sd
+http://xcwsnl28.mrnova.online:80/live/60015_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sport",Bein Sport4sd
+http://xcwsnl28.mrnova.online:80/live/60016_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sport",Bein Sport5sd
+http://xcwsnl28.mrnova.online:80/live/60017_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1group-title="Movies",HBOfamily
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1group-title="Movies",HBOHit
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1group-title="Movies",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8  
+#EXTINF:-1group-title="Movies",CENIMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1group-title="Movies",ColourHD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1group-title="Musics",V HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1group-title="Musics",1HDMusics
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1group-title="Musics",Kpop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1group-title="Musics",YO!MTV
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1group-title="Musics",Biggest Pop
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1group-title="NEWS",Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1group-title="NEWS",NHKWorldNews
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1group-title="NEWS",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
