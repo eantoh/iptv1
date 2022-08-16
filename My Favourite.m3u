@@ -1,4 +1,5 @@
-﻿#EXTINF:0,CNN INTERNATIONAL
+#EXTM3U
+#EXTINF:0,CNN INTERNATIONAL
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,CRIME 360
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
