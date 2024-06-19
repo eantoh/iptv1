@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNNa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/CNN_International_logo.png" group-title="News",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/CNN_International_logo.png" group-title="News",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DW_%28TV%29_logo_2012.svg/1200px-DW_%28TV%29_logo_2012.svg.png" group-title="News",DW
