@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1tvg-id="BOSS BROTHER TV / RDC" tvg-name="BOSS BROTHER TV / RDC"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg", BOSS BROTHER TV / RDC 
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1,MOLIERE TV / RDC http://51.254.199.122:8080/MoliereTV/index.m3u8
 http://51.254.199.122:8080/MoliereTV/index.m3u8
 
