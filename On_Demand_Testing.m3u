@@ -11,7 +11,16 @@ https://4e8223185173454299fbf03581b6dd7b.mediatailor.us-east-1.amazonaws.com/v1/
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_2.png",Nosey
 https://9c27771bc8af464c8588ae326fe26edd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Nosey/playlist.m3u8?ads.wurl_channel=319&ads.wurl_name=Nosey&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=itvezuxN1UfY5esSUYJw&ads.plex_id=5f0ff262d71dcb00449ec015&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/7sJLzKi.png",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/v48mMRT.png",NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="DOCS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TBD_logo_2016.png",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no",Fashion Television
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 ************************UNCLASSIFIED****************************
 #EXTINF:-1 group-title="News" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Black News Channel
 https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
