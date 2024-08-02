@@ -7,11 +7,54 @@ https://stream1.freetv.fun/tlc-9.ctv
 https://stream1.freetv.fun/afe3ea78392b4f73db47904d0846cf7c38622698d3a4664f3433c4ad1e2f28a0.ctv
 #EXTINF:-1 type="stream" group-title="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC HD
 https://stream1.freetv.fun/d075a268a25be94d2212091bc74e91d94c2009ec75fc2a018772482961d3a3c8.m3u8
-
 #EXTINF:-1 type="stream" group-title ="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
 https://stream1.freetv.fun/ba369926c86ceb553c35e939ff50304cc7aeb72f465f9ffb44341dbf58976248.m3u8
 #EXTINF:-1 type="stream" group-title ="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
 https://stream1.freetv.fun/6cc35a3e42914a316c82be1983ed3d80f7c4071f0853618fa17a36a192649e52.ctv
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Asia
+https://stream1.freetv.fun/7d947c8e33bfc43ce609ea8bf551280fe83a6e631307c94f45e650ec52e02d02.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Science
+https://stream1.freetv.fun/0fddf280232dc03033149f0b2d5bcf9ae79920ee0bf233c8fe35effa1b40e2e1.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery HD
+https://stream1.freetv.fun/bf5ab5274fac28e9daad4992bb91307af4dae82177ba7a039ea6317cc6bf8aba.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Science
+https://stream1.freetv.fun/08ce161dd15aa7d620bf52863dca0df2f3568cfb74dd825911572169da1646e2.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery HD
+https://stream1.freetv.fun/db5e9f98fe82732fe017eea1a10d7513dec7a7032d667645f105274c865620b2.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",DiscoveryᵁHD
+https://stream1.freetv.fun/6c94814c15df20ac0ac94a7b6ca23acd90872738ea7a39378bfcd1c568fff91f.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Science
+https://stream1.freetv.fun/f17334d1c87f49024f11ca472822eeb9ef840f229b2a45026a11e535ee58c957.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Asia
+https://stream1.freetv.fun/ce3ead1104ba665822969381a25359cdfced1e173755c14e8a8969991e8a11ef.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Theater
+https://stream1.freetv.fun/ed381b51057904fc753ed8a325839ec3739c8fd39d0ae87c54806d2f439eeed2.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery H H
+https://stream1.freetv.fun/c9c060d0b10ceeb34a9b87ca8d8dc3bf29df30b8858063113ae0a1e68553161c.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Familia
+https://stream1.freetv.fun/5c3ca20adee35d87ea1d63da9b9395ee3d6902a68aefd304db2ee75e9ed226d7.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Español
+https://stream1.freetv.fun/e43e85cd770c5bfa7369e4bab628e0ae0ec235b7234c4c619d04d4953fd1bca4.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery West
+https://stream1.freetv.fun/446f010a5a72bea8c071685545455ee33fa68e50387ec66b81a7d87943f4bcbf.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery East
+https://stream1.freetv.fun/21bc6fc8b394ab3ca60cfa793c4acef84154900498bf749c5ae0f5dce2f66dce.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Science
+https://stream1.freetv.fun/a72f32709ac34f67aed0ce17aa8c0d02427dfd5d009eb1c675c5129e6167e5b0.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Velocity
+https://stream1.freetv.fun/8d834e60f5b5917008b48a380395bf9dc2b123e1f204586ab9a2edd34f6e1537.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
+https://stream1.freetv.fun/cc9401821b6012a3da7e68a57be59ae14f4dc3c511c0101df5aadfa76284b313.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Science
+https://stream1.freetv.fun/2de4024e718a5f08601cff8bc5c89d7b1398cbd57f340a8a391a1c18bcbec3c3.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Turbo
+https://stream1.freetv.fun/4787db8cb28bd4d6cb56237099b10eb70cc3e9f03bbb9e9abdb4a4b1b37a1b49.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Theater
+https://stream1.freetv.fun/5f5a8a87a6e0ae16a1b9da14d44a68c1963eac131afc1dc4a699134254f2e1b6.ctv
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Discovery_Channel_-_Logo_2019.svg/1920px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Life
+https://stream1.freetv.fun/65818e2b556bb518b9c43cc03e5c0c51081ec80c2c6db01341cde6ef7fdfc93c.ctv
+
 
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg",HBO Hits
