@@ -42,7 +42,7 @@ https://stream1.freetv.fun/68d1cb7456c1241325637fb07059e8f579015edd45c2c1c23653c
 https://stream1.freetv.fun/169b8c521b4dff7e411cfc63bb653b3e970825bd0ac263f96fd71f7fd7e1b9de.ctv
 
 
-#EXTINF:-1 group-title="Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/National_Geographic_Channel_logo.svg/2000px-National_Geographic_Channel_logo.svg.png",National Geographic
+#EXTINF:-1 group-title="Nature" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png",Wild Earth
 https://stream1.freetv.fun/ed1d9b1757aa5af93770851824aa04bd53b5f281e734fe2fb6fb225e44294e2f.m3u8
 #EXTINF:-1 group-title="Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nat_Geo_Wild_logo.svg/2000px-Nat_Geo_Wild_logo.svg.png",National Geographic Wild
 https://stream1.freetv.fun/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a2296367cba33833d5.m3u8
