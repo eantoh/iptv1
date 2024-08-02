@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 type="stream" channelId="1048" group="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/222e3cb0e7044219da8daa1fdc0ffc2e39e7273dce6c850e12a3569ee74a2570.ctv
+#EXTINF:-1 type="stream" channelId="1048" group="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/tlc-9.ctv
+#EXTINF:-1 type="stream" channelId="1048" group="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/afe3ea78392b4f73db47904d0846cf7c38622698d3a4664f3433c4ad1e2f28a0.ctv
+#EXTINF:-1 type="stream" channelId="1048" group="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/d075a268a25be94d2212091bc74e91d94c2009ec75fc2a018772482961d3a3c8.m3u8
+#EXTINF:-1 type="stream" channelId="1048" group="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/2361c260c2d3e36dfe25f0f7e219147449d9871a3f682741416814d719a7fad7.m3u8
+#EXTINF:-1 type="stream" channelId="1048" group="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/ba577a6d40bf230ab315d9084214ca1839faf85ec443c29b553e2905d29eed43.m3u8
+#EXTINF:-1 type="stream" channelId="1048" group="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/tlc-1.m3u8
