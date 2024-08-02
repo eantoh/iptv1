@@ -10,6 +10,16 @@ https://stream1.freetv.fun/d075a268a25be94d2212091bc74e91d94c2009ec75fc2a0187724
 #EXTINF:-1 type="stream" group-title="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg", Dicovery HD
 https://stream1.freetv.fun/db5e9f98fe82732fe017eea1a10d7513dec7a7032d667645f105274c865620b2.ctv
 
+#EXTINF:-1 type="stream" group-title ="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/222e3cb0e7044219da8daa1fdc0ffc2e39e7273dce6c850e12a3569ee74a2570.ctv
+#EXTINF:-1 type="stream" group-title ="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+#EXTINF:-1 type="stream" group-title ="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/afe3ea78392b4f73db47904d0846cf7c38622698d3a4664f3433c4ad1e2f28a0.ctv
+#EXTINF:-1 type="stream" group-title ="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/ba369926c86ceb553c35e939ff50304cc7aeb72f465f9ffb44341dbf58976248.m3u8
+#EXTINF:-1 type="stream" group-title ="Entertainment" logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.svg", TLC
+https://stream1.freetv.fun/6cc35a3e42914a316c82be1983ed3d80f7c4071f0853618fa17a36a192649e52.ctv
+
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg",HBO Hits
 https://stream1.freetv.fun/7f218742350087ff38a041736b9ef41b2eb38e6ac280cff6799b5668b9ca7d40.ctv
