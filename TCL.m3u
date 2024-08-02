@@ -61,3 +61,7 @@ https://stream1.freetv.fun/studio-universal-3.m3u8
 https://stream1.freetv.fun/79b28b7be29f70942e3b28a036f206a0b9484522e05a84f7d7dbb049c06b4e25.ctv
 
 
+#EXTINF:-1 group-title="Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CBS_Reality.png",CBS Reality
+https://stream1.freetv.fun/db9ffc8555fb0e26e19a096ca3d32053c639ee83e8f9e3cb55e26bb3d91b8372.ctv
+
+
