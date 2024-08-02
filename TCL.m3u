@@ -66,50 +66,11 @@ https://stream1.freetv.fun/1ad67f6db9b4d28ef2328ab5e56af51dd4e06692d919eb56b4077
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Base 1
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Live
 https://stream1.freetv.fun/b25724d111d768584a85d95fa55249eb4c8ac4cc82537ae379e92cc45b0d3179.ctv
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Rocks 4
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Rocks
 https://stream1.freetv.fun/0c4a905fcbb2e3e3af40588556bae71d92b972b48b24872984668fe53b81135e.ctv
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Rocks 3
-https://stream1.freetv.fun/c69420b24d027b633c825c17ab169fe1e09ed0b3917b89fb9f63a1a6319982a5.ctv
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Base 5
-https://stream1.freetv.fun/3f931bc9f570b019218753abfebe75f7fc755732599aa5e671a9e5cd421593e1.ctv
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Rocks 1
-https://stream1.freetv.fun/551b22ff653fe9e680a3bbe56051d21235dfb7b17b1e006e27007a4a1423cba9.ctv
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Miaw Pluto TV
-https://stream1.freetv.fun/f08c081c0524bd4ed9befde1f8ee26ecfb16a49f9fadb5ec0361072789c80231.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Biggest Pop
-https://stream1.freetv.fun/2ff02f7eb05b0541cbfa79809d667c81430e89946390da2917b460f186b2aee2.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Biggest Pop
-https://stream1.freetv.fun/263ca7425f0da46381183a356d5ffbfa4a81ecdd71615a5d10c866ad25051a66.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",Yo MTV 4
-https://stream1.freetv.fun/2fbac24a802a0bfece735dafd6346a4ea888621bc7e38e14f6603b8ad2ae674d.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Base 4
-https://stream1.freetv.fun/edc17b6504dcc8574beba73b208f57800bde5a5d28437b854ce90ac5784e94bd.ctv
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",Yo MTV 3
-https://stream1.freetv.fun/2d4fa1253ebf63d82402a4a03236a48d17c520bedd8274f3f3e22d8da54dda0c.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",Yo MTV 2
-https://stream1.freetv.fun/f297bc6a4cc97481e161aaae589dfff7586e4be7cd341bbd19792365ed777783.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Spankin’ New
-https://stream1.freetv.fun/cb387ad127e7706322d771074a3f4981f82c8100fff7ad3c55e7d68fdbe6e73e.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Live 10
-https://stream1.freetv.fun/1dde78b182be50b90c6baf28511016827bf1cff12b75ed4cc50320d11bfdfb8c.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTVu 2
-https://stream1.freetv.fun/68460e63ed4ff68091ac40d6a449b7161b15876174e56ff050106843265f116f.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Live 9
-https://stream1.freetv.fun/c002c9b28b6167d7680b917f40eb9fb53cb135a6942e3b23073923fcd8561edc.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",SMTV 1
-https://stream1.freetv.fun/5b8d5ec3fd16506a6c0d07eb849e39dd920b523e55e5cfb14daf9b8324d45506.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTVu 1
-https://stream1.freetv.fun/f30ae2675f437d2f80d6a4ee4df5d6177e5c2737caa696d0f30e0178a1d9bf5a.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV2 2
-https://stream1.freetv.fun/a49544472f11e59286ec3f4df4a40cc77ac0c9685ef911c51bfe30d3c0dc6181.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV 12
-https://stream1.freetv.fun/a16e141c837cd7e7e89cd8fcc26876860b0caf80dd2cb9563e4101c6890c01bc.ctv
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV2 1
-https://stream1.freetv.fun/a52225f6363b6547d5b6e96eab69a66f79bcac42f3f4a3d4179f9c4cd60e5859.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV 00s
-https://stream1.freetv.fun/32b8dca2dbe235c78b8417263f04c702573b312dd7cbf119923f91515e4b383e.m3u8
+
 
 
 
