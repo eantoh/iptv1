@@ -53,3 +53,9 @@ https://stream1.freetv.fun/2fb6b73b7338600008df4da94ff0738b10f52b3c883b0713953e8
 #EXTINF:-1 group-title="Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/640px-National-Geographic-Logo.svg.png",ช่อง National Geographic
 https://stream1.freetv.fun/19cd3e7090e2f8c4c778947e826a32de84997237e6ba4ca1217379e1e85be55a.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
+https://stream1.freetv.fun/9cd4f78ed67f68e3cebfafec0d291a3bfda93f793679f8cbadacfc4daa169185.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
+https://stream1.freetv.fun/studio-universal-3.m3u8
+
+
