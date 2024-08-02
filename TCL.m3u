@@ -66,7 +66,7 @@ https://stream1.freetv.fun/1ad67f6db9b4d28ef2328ab5e56af51dd4e06692d919eb56b4077
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Live
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Base
 https://stream1.freetv.fun/b25724d111d768584a85d95fa55249eb4c8ac4cc82537ae379e92cc45b0d3179.ctv
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/MTV_Logo.svg",MTV Rocks
 https://stream1.freetv.fun/0c4a905fcbb2e3e3af40588556bae71d92b972b48b24872984668fe53b81135e.ctv
