@@ -259,6 +259,14 @@ https://stream1.freetv.fun/7e154d3ba0994a6d902f0a03ae0ac260fd826712e7b1b5077b3d0
 
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Canal%2B_Sport_logo_2020.svg/1920px-Canal%2B_Sport_logo_2020.svg.png",Canal+ Motor
+https://stream1.freetv.fun/a6f77e26310d477993942931a8434e90f21c2682f4a316b63722c7ac29f57a42.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Canal%2B_Sport_logo_2020.svg/1920px-Canal%2B_Sport_logo_2020.svg.png",Canal+ Foot360 HD Web
+https://stream1.freetv.fun/f177260f03a56921846071a8efcbaefb37d6b088726b404561784bce77eb0f32.ctv
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Canal%2B_Sport_logo_2020.svg/1920px-Canal%2B_Sport_logo_2020.svg.png",Canal+ Foot Hd
+https://stream1.freetv.fun/d8974e331b03e692b046596677e44a0ebc7a9e7dde6f99a3500cb0b60095969b.ctv
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Canal%2B_Sport_logo_2020.svg/1920px-Canal%2B_Sport_logo_2020.svg.png",Canal+ Motor
+https://stream1.freetv.fun/2938dff7e0d1dc917f27b8a1e71263019fb69f807a220d5192e7b08d3ac1bb2b.m3u8
 
 #EXTINF:-1 group-title="Sports",SuperSports Action
 https://stream1.freetv.fun/3aa1808c07600db22ca816d81081fd9f94dc8cbef452cb12c8505381a00ac92a.ctv
